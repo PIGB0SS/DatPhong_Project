@@ -1,0 +1,40 @@
+C:\Code\DatPhongKhachSan\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\Code\DatPhongKhachSan\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+C:\Code\DatPhongKhachSan\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\Code\DatPhongKhachSan\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\Code\DatPhongKhachSan\Infrastructure\bin\Debug\net8.0\Domain.dll
+C:\Code\DatPhongKhachSan\Infrastructure\bin\Debug\net8.0\Domain.pdb
+C:\Code\DatPhongKhachSan\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Code\DatPhongKhachSan\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\DatPhongKhachSan\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Code\DatPhongKhachSan\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Code\DatPhongKhachSan\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Code\DatPhongKhachSan\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+C:\Code\DatPhongKhachSan\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\Code\DatPhongKhachSan\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\Code\DatPhongKhachSan\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\Code\DatPhongKhachSan\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+C:\Code\DatPhongKhachSan\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+C:\Code\DatPhongKhachSan\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json
+C:\Code\DatPhongKhachSan\Infrastructure\bin\Debug\net8.0\Appplication.dll
+C:\Code\DatPhongKhachSan\Infrastructure\bin\Debug\net8.0\Appplication.pdb
+C:\Code\DatPhongKhachSan - Copy\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\Code\DatPhongKhachSan - Copy\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+C:\Code\DatPhongKhachSan - Copy\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\Code\DatPhongKhachSan - Copy\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\Code\DatPhongKhachSan - Copy\Infrastructure\bin\Debug\net8.0\Appplication.dll
+C:\Code\DatPhongKhachSan - Copy\Infrastructure\bin\Debug\net8.0\Domain.dll
+C:\Code\DatPhongKhachSan - Copy\Infrastructure\bin\Debug\net8.0\Appplication.pdb
+C:\Code\DatPhongKhachSan - Copy\Infrastructure\bin\Debug\net8.0\Domain.pdb
+C:\Code\DatPhongKhachSan - Copy\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Code\DatPhongKhachSan - Copy\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\DatPhongKhachSan - Copy\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Code\DatPhongKhachSan - Copy\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Code\DatPhongKhachSan - Copy\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Code\DatPhongKhachSan - Copy\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json
+C:\Code\DatPhongKhachSan - Copy\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+C:\Code\DatPhongKhachSan - Copy\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\Code\DatPhongKhachSan - Copy\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\Code\DatPhongKhachSan - Copy\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\Code\DatPhongKhachSan - Copy\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+C:\Code\DatPhongKhachSan - Copy\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll

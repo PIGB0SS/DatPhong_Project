@@ -1,0 +1,36 @@
+C:\Code\DatPhongKhachSan\Appplication\bin\Debug\net8.0\Appplication.deps.json
+C:\Code\DatPhongKhachSan\Appplication\bin\Debug\net8.0\Appplication.runtimeconfig.json
+C:\Code\DatPhongKhachSan\Appplication\bin\Debug\net8.0\Appplication.dll
+C:\Code\DatPhongKhachSan\Appplication\bin\Debug\net8.0\Appplication.pdb
+C:\Code\DatPhongKhachSan\Appplication\obj\Debug\net8.0\Appplication.csproj.AssemblyReference.cache
+C:\Code\DatPhongKhachSan\Appplication\obj\Debug\net8.0\Appplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\DatPhongKhachSan\Appplication\obj\Debug\net8.0\Appplication.AssemblyInfoInputs.cache
+C:\Code\DatPhongKhachSan\Appplication\obj\Debug\net8.0\Appplication.AssemblyInfo.cs
+C:\Code\DatPhongKhachSan\Appplication\obj\Debug\net8.0\Appplication.csproj.CoreCompileInputs.cache
+C:\Code\DatPhongKhachSan\Appplication\obj\Debug\net8.0\Appplication.dll
+C:\Code\DatPhongKhachSan\Appplication\obj\Debug\net8.0\refint\Appplication.dll
+C:\Code\DatPhongKhachSan\Appplication\obj\Debug\net8.0\Appplication.pdb
+C:\Code\DatPhongKhachSan\Appplication\obj\Debug\net8.0\Appplication.genruntimeconfig.cache
+C:\Code\DatPhongKhachSan\Appplication\obj\Debug\net8.0\ref\Appplication.dll
+C:\Code\DatPhongKhachSan\Appplication\bin\Debug\net8.0\Domain.dll
+C:\Code\DatPhongKhachSan\Appplication\bin\Debug\net8.0\Domain.pdb
+C:\Code\DatPhongKhachSan\Appplication\obj\Debug\net8.0\Appplication.sourcelink.json
+C:\Code\DatPhongKhachSan\Appplication\obj\Debug\net8.0\Appplica.4000D35C.Up2Date
+C:\Code\DatPhongKhachSan - Copy\Appplication\bin\Debug\net8.0\Appplication.deps.json
+C:\Code\DatPhongKhachSan - Copy\Appplication\bin\Debug\net8.0\Appplication.runtimeconfig.json
+C:\Code\DatPhongKhachSan - Copy\Appplication\bin\Debug\net8.0\Appplication.dll
+C:\Code\DatPhongKhachSan - Copy\Appplication\bin\Debug\net8.0\Appplication.pdb
+C:\Code\DatPhongKhachSan - Copy\Appplication\bin\Debug\net8.0\Domain.dll
+C:\Code\DatPhongKhachSan - Copy\Appplication\bin\Debug\net8.0\Domain.pdb
+C:\Code\DatPhongKhachSan - Copy\Appplication\obj\Debug\net8.0\Appplication.csproj.AssemblyReference.cache
+C:\Code\DatPhongKhachSan - Copy\Appplication\obj\Debug\net8.0\Appplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\DatPhongKhachSan - Copy\Appplication\obj\Debug\net8.0\Appplication.AssemblyInfoInputs.cache
+C:\Code\DatPhongKhachSan - Copy\Appplication\obj\Debug\net8.0\Appplication.AssemblyInfo.cs
+C:\Code\DatPhongKhachSan - Copy\Appplication\obj\Debug\net8.0\Appplication.csproj.CoreCompileInputs.cache
+C:\Code\DatPhongKhachSan - Copy\Appplication\obj\Debug\net8.0\Appplication.sourcelink.json
+C:\Code\DatPhongKhachSan - Copy\Appplication\obj\Debug\net8.0\Appplica.4000D35C.Up2Date
+C:\Code\DatPhongKhachSan - Copy\Appplication\obj\Debug\net8.0\Appplication.dll
+C:\Code\DatPhongKhachSan - Copy\Appplication\obj\Debug\net8.0\refint\Appplication.dll
+C:\Code\DatPhongKhachSan - Copy\Appplication\obj\Debug\net8.0\Appplication.pdb
+C:\Code\DatPhongKhachSan - Copy\Appplication\obj\Debug\net8.0\Appplication.genruntimeconfig.cache
+C:\Code\DatPhongKhachSan - Copy\Appplication\obj\Debug\net8.0\ref\Appplication.dll

@@ -1,0 +1,393 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Code\\DatPhongKhachSan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46FE6C7C-4B2A-4027-A8D7-2B868E618977}|Presentation\\Presentation.csproj|c:\\code\\datphongkhachsan\\presentation\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46FE6C7C-4B2A-4027-A8D7-2B868E618977}|Presentation\\Presentation.csproj|solutionrelative:presentation\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFA8A057-4897-4A28-B66D-F178CBAEDDD7}|Appplication\\Appplication.csproj|c:\\code\\datphongkhachsan\\appplication\\common\\utility\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFA8A057-4897-4A28-B66D-F178CBAEDDD7}|Appplication\\Appplication.csproj|solutionrelative:appplication\\common\\utility\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46FE6C7C-4B2A-4027-A8D7-2B868E618977}|Presentation\\Presentation.csproj|c:\\code\\datphongkhachsan\\presentation\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46FE6C7C-4B2A-4027-A8D7-2B868E618977}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46FE6C7C-4B2A-4027-A8D7-2B868E618977}|Presentation\\Presentation.csproj|c:\\code\\datphongkhachsan\\presentation\\views\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46FE6C7C-4B2A-4027-A8D7-2B868E618977}|Presentation\\Presentation.csproj|solutionrelative:presentation\\views\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46FE6C7C-4B2A-4027-A8D7-2B868E618977}|Presentation\\Presentation.csproj|c:\\code\\datphongkhachsan\\presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{46FE6C7C-4B2A-4027-A8D7-2B868E618977}|Presentation\\Presentation.csproj|solutionrelative:presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46FE6C7C-4B2A-4027-A8D7-2B868E618977}|Presentation\\Presentation.csproj|c:\\code\\datphongkhachsan\\presentation\\views\\booking\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46FE6C7C-4B2A-4027-A8D7-2B868E618977}|Presentation\\Presentation.csproj|solutionrelative:presentation\\views\\booking\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46FE6C7C-4B2A-4027-A8D7-2B868E618977}|Presentation\\Presentation.csproj|c:\\code\\datphongkhachsan\\presentation\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46FE6C7C-4B2A-4027-A8D7-2B868E618977}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDFCF5F2-41C1-49E4-B1DC-8DB2E2AAFD17}|Infrastructure\\Infrastructure.csproj|c:\\code\\datphongkhachsan\\infrastructure\\migrations\\20250719012730_fixentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDFCF5F2-41C1-49E4-B1DC-8DB2E2AAFD17}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\20250719012730_fixentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF1F3EC5-5615-444F-9C0E-91E574028EBA}|Domain\\Domain.csproj|c:\\code\\datphongkhachsan\\domain\\entities\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF1F3EC5-5615-444F-9C0E-91E574028EBA}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDFCF5F2-41C1-49E4-B1DC-8DB2E2AAFD17}|Infrastructure\\Infrastructure.csproj|c:\\code\\datphongkhachsan\\infrastructure\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDFCF5F2-41C1-49E4-B1DC-8DB2E2AAFD17}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46FE6C7C-4B2A-4027-A8D7-2B868E618977}|Presentation\\Presentation.csproj|c:\\code\\datphongkhachsan\\presentation\\views\\shared\\_hoteldetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46FE6C7C-4B2A-4027-A8D7-2B868E618977}|Presentation\\Presentation.csproj|solutionrelative:presentation\\views\\shared\\_hoteldetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF1F3EC5-5615-444F-9C0E-91E574028EBA}|Domain\\Domain.csproj|c:\\code\\datphongkhachsan\\domain\\entities\\hotelnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF1F3EC5-5615-444F-9C0E-91E574028EBA}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\hotelnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF1F3EC5-5615-444F-9C0E-91E574028EBA}|Domain\\Domain.csproj|c:\\code\\datphongkhachsan\\domain\\entities\\amenity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF1F3EC5-5615-444F-9C0E-91E574028EBA}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\amenity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46FE6C7C-4B2A-4027-A8D7-2B868E618977}|Presentation\\Presentation.csproj|c:\\code\\datphongkhachsan\\presentation\\presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{46FE6C7C-4B2A-4027-A8D7-2B868E618977}|Presentation\\Presentation.csproj|solutionrelative:presentation\\presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46FE6C7C-4B2A-4027-A8D7-2B868E618977}|Presentation\\Presentation.csproj|c:\\code\\datphongkhachsan\\presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46FE6C7C-4B2A-4027-A8D7-2B868E618977}|Presentation\\Presentation.csproj|solutionrelative:presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDFCF5F2-41C1-49E4-B1DC-8DB2E2AAFD17}|Infrastructure\\Infrastructure.csproj|c:\\code\\datphongkhachsan\\infrastructure\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDFCF5F2-41C1-49E4-B1DC-8DB2E2AAFD17}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46FE6C7C-4B2A-4027-A8D7-2B868E618977}|Presentation\\Presentation.csproj|c:\\code\\datphongkhachsan\\presentation\\views\\hotel\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46FE6C7C-4B2A-4027-A8D7-2B868E618977}|Presentation\\Presentation.csproj|solutionrelative:presentation\\views\\hotel\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46FE6C7C-4B2A-4027-A8D7-2B868E618977}|Presentation\\Presentation.csproj|c:\\code\\datphongkhachsan\\presentation\\views\\booking\\finalizebooking.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46FE6C7C-4B2A-4027-A8D7-2B868E618977}|Presentation\\Presentation.csproj|solutionrelative:presentation\\views\\booking\\finalizebooking.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46FE6C7C-4B2A-4027-A8D7-2B868E618977}|Presentation\\Presentation.csproj|c:\\code\\datphongkhachsan\\presentation\\views\\booking\\bookingdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46FE6C7C-4B2A-4027-A8D7-2B868E618977}|Presentation\\Presentation.csproj|solutionrelative:presentation\\views\\booking\\bookingdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46FE6C7C-4B2A-4027-A8D7-2B868E618977}|Presentation\\Presentation.csproj|c:\\code\\datphongkhachsan\\presentation\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46FE6C7C-4B2A-4027-A8D7-2B868E618977}|Presentation\\Presentation.csproj|solutionrelative:presentation\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46FE6C7C-4B2A-4027-A8D7-2B868E618977}|Presentation\\Presentation.csproj|c:\\code\\datphongkhachsan\\presentation\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46FE6C7C-4B2A-4027-A8D7-2B868E618977}|Presentation\\Presentation.csproj|solutionrelative:presentation\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46FE6C7C-4B2A-4027-A8D7-2B868E618977}|Presentation\\Presentation.csproj|c:\\code\\datphongkhachsan\\presentation\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46FE6C7C-4B2A-4027-A8D7-2B868E618977}|Presentation\\Presentation.csproj|solutionrelative:presentation\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDFCF5F2-41C1-49E4-B1DC-8DB2E2AAFD17}|Infrastructure\\Infrastructure.csproj|c:\\code\\datphongkhachsan\\infrastructure\\migrations\\20250719005348_thembooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDFCF5F2-41C1-49E4-B1DC-8DB2E2AAFD17}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\20250719005348_thembooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserRoles.cs",
+              "DocumentMoniker": "C:\\Code\\DatPhongKhachSan\\Appplication\\Common\\Utility\\UserRoles.cs",
+              "RelativeDocumentMoniker": "Appplication\\Common\\Utility\\UserRoles.cs",
+              "ToolTip": "C:\\Code\\DatPhongKhachSan\\Appplication\\Common\\Utility\\UserRoles.cs",
+              "RelativeToolTip": "Appplication\\Common\\Utility\\UserRoles.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T12:03:05.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Code\\DatPhongKhachSan\\Presentation\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Code\\DatPhongKhachSan\\Presentation\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Presentation\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAcwG4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T12:00:39.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "C:\\Code\\DatPhongKhachSan\\Presentation\\Views\\Account\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "Presentation\\Views\\Account\\AccessDenied.cshtml",
+              "ToolTip": "C:\\Code\\DatPhongKhachSan\\Presentation\\Views\\Account\\AccessDenied.cshtml",
+              "RelativeToolTip": "Presentation\\Views\\Account\\AccessDenied.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-19T12:00:36.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "C:\\Code\\DatPhongKhachSan\\Presentation\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controllers\\BookingController.cs",
+              "ToolTip": "C:\\Code\\DatPhongKhachSan\\Presentation\\Controllers\\BookingController.cs",
+              "RelativeToolTip": "Presentation\\Controllers\\BookingController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAIwEsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T01:41:17.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20250719012730_fixEntities.cs",
+              "DocumentMoniker": "C:\\Code\\DatPhongKhachSan\\Infrastructure\\Migrations\\20250719012730_fixEntities.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20250719012730_fixEntities.cs",
+              "ToolTip": "C:\\Code\\DatPhongKhachSan\\Infrastructure\\Migrations\\20250719012730_fixEntities.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20250719012730_fixEntities.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T01:27:31.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Code\\DatPhongKhachSan\\Infrastructure\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repository\\Repository.cs",
+              "ToolTip": "C:\\Code\\DatPhongKhachSan\\Infrastructure\\Repository\\Repository.cs",
+              "RelativeToolTip": "Infrastructure\\Repository\\Repository.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAADgv04AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T01:23:50.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HotelNumber.cs",
+              "DocumentMoniker": "C:\\Code\\DatPhongKhachSan\\Domain\\Entities\\HotelNumber.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\HotelNumber.cs",
+              "ToolTip": "C:\\Code\\DatPhongKhachSan\\Domain\\Entities\\HotelNumber.cs",
+              "RelativeToolTip": "Domain\\Entities\\HotelNumber.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T01:23:35.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Hotel.cs",
+              "DocumentMoniker": "C:\\Code\\DatPhongKhachSan\\Domain\\Entities\\Hotel.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Hotel.cs",
+              "ToolTip": "C:\\Code\\DatPhongKhachSan\\Domain\\Entities\\Hotel.cs",
+              "RelativeToolTip": "Domain\\Entities\\Hotel.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAA0wAEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T01:23:34.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Amenity.cs",
+              "DocumentMoniker": "C:\\Code\\DatPhongKhachSan\\Domain\\Entities\\Amenity.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Amenity.cs",
+              "ToolTip": "C:\\Code\\DatPhongKhachSan\\Domain\\Entities\\Amenity.cs",
+              "RelativeToolTip": "Domain\\Entities\\Amenity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T01:23:05.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Code\\DatPhongKhachSan\\Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Code\\DatPhongKhachSan\\Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T01:20:02.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Code\\DatPhongKhachSan\\Presentation\\Views\\Hotel\\Index.cshtml",
+              "RelativeDocumentMoniker": "Presentation\\Views\\Hotel\\Index.cshtml",
+              "ToolTip": "C:\\Code\\DatPhongKhachSan\\Presentation\\Views\\Hotel\\Index.cshtml",
+              "RelativeToolTip": "Presentation\\Views\\Hotel\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-19T01:15:26.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_HotelDetail.cshtml",
+              "DocumentMoniker": "C:\\Code\\DatPhongKhachSan\\Presentation\\Views\\Shared\\_HotelDetail.cshtml",
+              "RelativeDocumentMoniker": "Presentation\\Views\\Shared\\_HotelDetail.cshtml",
+              "ToolTip": "C:\\Code\\DatPhongKhachSan\\Presentation\\Views\\Shared\\_HotelDetail.cshtml",
+              "RelativeToolTip": "Presentation\\Views\\Shared\\_HotelDetail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-19T00:59:35.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Code\\DatPhongKhachSan\\Presentation\\Views\\Booking\\Index.cshtml",
+              "RelativeDocumentMoniker": "Presentation\\Views\\Booking\\Index.cshtml",
+              "ToolTip": "C:\\Code\\DatPhongKhachSan\\Presentation\\Views\\Booking\\Index.cshtml",
+              "RelativeToolTip": "Presentation\\Views\\Booking\\Index.cshtml",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-19T00:59:21.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FinalizeBooking.cshtml",
+              "DocumentMoniker": "C:\\Code\\DatPhongKhachSan\\Presentation\\Views\\Booking\\FinalizeBooking.cshtml",
+              "RelativeDocumentMoniker": "Presentation\\Views\\Booking\\FinalizeBooking.cshtml",
+              "ToolTip": "C:\\Code\\DatPhongKhachSan\\Presentation\\Views\\Booking\\FinalizeBooking.cshtml",
+              "RelativeToolTip": "Presentation\\Views\\Booking\\FinalizeBooking.cshtml",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAjwGIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-19T00:59:00.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BookingDetail.cshtml",
+              "DocumentMoniker": "C:\\Code\\DatPhongKhachSan\\Presentation\\Views\\Booking\\BookingDetail.cshtml",
+              "RelativeDocumentMoniker": "Presentation\\Views\\Booking\\BookingDetail.cshtml",
+              "ToolTip": "C:\\Code\\DatPhongKhachSan\\Presentation\\Views\\Booking\\BookingDetail.cshtml",
+              "RelativeToolTip": "Presentation\\Views\\Booking\\BookingDetail.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAjwCgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-19T00:58:53.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Code\\DatPhongKhachSan\\Presentation\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Presentation\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Code\\DatPhongKhachSan\\Presentation\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Presentation\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-19T00:57:14.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Presentation.csproj",
+              "DocumentMoniker": "C:\\Code\\DatPhongKhachSan\\Presentation\\Presentation.csproj",
+              "RelativeDocumentMoniker": "Presentation\\Presentation.csproj",
+              "ToolTip": "C:\\Code\\DatPhongKhachSan\\Presentation\\Presentation.csproj",
+              "RelativeToolTip": "Presentation\\Presentation.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-19T00:56:06.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Code\\DatPhongKhachSan\\Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "Presentation\\Program.cs",
+              "ToolTip": "C:\\Code\\DatPhongKhachSan\\Presentation\\Program.cs",
+              "RelativeToolTip": "Presentation\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAIwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T00:56:12.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Code\\DatPhongKhachSan\\Presentation\\appsettings.json",
+              "RelativeDocumentMoniker": "Presentation\\appsettings.json",
+              "ToolTip": "C:\\Code\\DatPhongKhachSan\\Presentation\\appsettings.json",
+              "RelativeToolTip": "Presentation\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-19T00:55:53.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Code\\DatPhongKhachSan\\Presentation\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Presentation\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Code\\DatPhongKhachSan\\Presentation\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Presentation\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-19T00:55:52.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Code\\DatPhongKhachSan\\Presentation\\Models\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "Presentation\\Models\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Code\\DatPhongKhachSan\\Presentation\\Models\\RegisterViewModel.cs",
+              "RelativeToolTip": "Presentation\\Models\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T00:54:50.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Code\\DatPhongKhachSan\\Presentation\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "Presentation\\Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\Code\\DatPhongKhachSan\\Presentation\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "Presentation\\Models\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T00:54:40.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20250719005348_ThemBooking.cs",
+              "DocumentMoniker": "C:\\Code\\DatPhongKhachSan\\Infrastructure\\Migrations\\20250719005348_ThemBooking.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20250719005348_ThemBooking.cs",
+              "ToolTip": "C:\\Code\\DatPhongKhachSan\\Infrastructure\\Migrations\\20250719005348_ThemBooking.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20250719005348_ThemBooking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T00:53:48.915Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

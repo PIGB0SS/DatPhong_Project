@@ -1,9 +1,10 @@
 ﻿using Domain.Entities;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
 namespace Infrastructure.Data
 {
-    public class ApplicationDbContext : DbContext
+    public class ApplicationDbContext : IdentityDbContext
     {
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options)
         {
@@ -11,7 +12,8 @@ namespace Infrastructure.Data
         public DbSet<Hotel> Hotels { get; set; }
         public DbSet<HotelNumber> HotelNumbers { get; set; }
         public DbSet<Booking> Bookings { get; set; }
-        public DbSet<User> Users { get; set; }
+        public DbSet<Amenity> Amenities { get; set; }
+        public DbSet<ApplicationUser> ApplicationUsers { get; set; }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);
@@ -60,28 +62,48 @@ namespace Infrastructure.Data
             modelBuilder.Entity<HotelNumber>().HasData(
                 new HotelNumber
                 {
-                    Hotel_Number=201,
+                    Hotel_Number = 201,
                     HotelId = 1,
                 },
                 new HotelNumber
                 {
-                    Hotel_Number=202,
+                    Hotel_Number = 202,
                     HotelId = 1,
                 },
                 new HotelNumber
                 {
-                    Hotel_Number=203,
+                    Hotel_Number = 203,
                     HotelId = 1,
                 },
                 new HotelNumber
                 {
-                    Hotel_Number=204,
+                    Hotel_Number = 204,
                     HotelId = 1,
                 },
                 new HotelNumber
                 {
-                    Hotel_Number=205,
+                    Hotel_Number = 205,
                     HotelId = 1,
+                }
+            );
+            modelBuilder.Entity<Amenity>().HasData(
+                new Amenity
+                {
+                    Id = 1,
+                    Name = "Vip 5 sao 1",
+                    HotelId = 1
+                },
+                new Amenity
+                {
+                    Id = 2,
+                    Name = "Vip 5 sao 2",  
+                    HotelId = 1
+                },
+                new Amenity
+                {
+                    Id = 3,
+                    Name = "Vip 5 sao 3",
+                    HotelId = 1
                 }
             );
         }

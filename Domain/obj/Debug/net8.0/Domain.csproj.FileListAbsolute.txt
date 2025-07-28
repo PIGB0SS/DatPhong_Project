@@ -1,0 +1,30 @@
+C:\Code\DatPhongKhachSan\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Code\DatPhongKhachSan\Domain\bin\Debug\net8.0\Domain.runtimeconfig.json
+C:\Code\DatPhongKhachSan\Domain\bin\Debug\net8.0\Domain.dll
+C:\Code\DatPhongKhachSan\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Code\DatPhongKhachSan\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+C:\Code\DatPhongKhachSan\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\DatPhongKhachSan\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Code\DatPhongKhachSan\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Code\DatPhongKhachSan\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Code\DatPhongKhachSan\Domain\obj\Debug\net8.0\Domain.dll
+C:\Code\DatPhongKhachSan\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Code\DatPhongKhachSan\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Code\DatPhongKhachSan\Domain\obj\Debug\net8.0\Domain.genruntimeconfig.cache
+C:\Code\DatPhongKhachSan\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Code\DatPhongKhachSan\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+C:\Code\DatPhongKhachSan - Copy\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+C:\Code\DatPhongKhachSan - Copy\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\DatPhongKhachSan - Copy\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Code\DatPhongKhachSan - Copy\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Code\DatPhongKhachSan - Copy\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Code\DatPhongKhachSan - Copy\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+C:\Code\DatPhongKhachSan - Copy\Domain\obj\Debug\net8.0\Domain.dll
+C:\Code\DatPhongKhachSan - Copy\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Code\DatPhongKhachSan - Copy\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Code\DatPhongKhachSan - Copy\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Code\DatPhongKhachSan - Copy\Domain\bin\Debug\net8.0\Domain.runtimeconfig.json
+C:\Code\DatPhongKhachSan - Copy\Domain\bin\Debug\net8.0\Domain.dll
+C:\Code\DatPhongKhachSan - Copy\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Code\DatPhongKhachSan - Copy\Domain\obj\Debug\net8.0\Domain.genruntimeconfig.cache
+C:\Code\DatPhongKhachSan - Copy\Domain\obj\Debug\net8.0\ref\Domain.dll

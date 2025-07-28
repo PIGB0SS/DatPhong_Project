@@ -1,76 +1,83 @@
 ﻿@model IEnumerable<Domain.Entities.Hotel>
 
-<div class="w-100 card border-0 p-5">
-    <div class="card-header bg-primary bg-gradient m-lg-0 py-3">
-        <div class="row">
-            <div class="col-12 text-center">
-                <h2 class="text-white py-2">
-                    Danh Sách Khách Sạn
-                </h2>
-            </div>
-        </div>
+@* <h2>Danh sách khách sạn</h2> *@
+
+<div class="w-100 card border-0 p-4">
+  <div class="card-header bg-primary bg-gradient m-lg-0 py-3">
+    <div class="row">
+      <div class="col-12 text-center">
+        <h2 class="text-white py-2">Danh sách khách sạn</h2>
+      </div>
     </div>
-    <div class="card-body border py-4 ">
-        <div class="row pb-4">
-            <div class="col-6 offset-6 text-end">
-                <a class="btn btn-primary" asp-area="" asp-controller="Hotel" asp-action="Create">
-                    <i class="bi bi-plus-circle"></i> Thêm mới thông tin khách sạn
+  </div>
+  <div class="card-body border p-4">
+
+    <div class="row pb-4">
+      <div class="col-6 offset-6 text-end">
+        <a asp-controller="Hotel" asp-action="Create" class="btn btn-primary">
+          <i class="bi bi-plus-circle"></i> Thêm mới thông tin khách sạn
+        </a>
+      </div>
+    </div>
+
+    <table class="table table-bordered table-striped">
+      <thead>
+        <tr>
+          <th>
+            Tên Dịch Vụ
+          </th>
+          <th>
+            Giá Phòng
+          </th>
+          <th>
+            Số Mét Vuông
+          </th>
+          <th>
+            Số Người Tối Đa
+          </th>
+          <th>
+            Chức Năng
+          </th>
+        </tr>
+      </thead>
+      <tbody>
+        @foreach (var item in Model)
+        {
+          <tr>
+            <td>
+              @item.Name
+            </td>
+            <td>
+              @item.Price
+            </td>
+            <td>
+              @item.SquareMeter
+            </td>
+            <td>
+              @item.Occupancy
+            </td>
+            <td>
+              <div class="w-100 btn-group" role="group">
+                <a 
+                  asp-controller="Hotel" 
+                  asp-action="Update" 
+                  asp-route-hotelId="@item.Id"
+                  class="btn btn-primary"
+                >
+                  @* <i class="bi bi-vector-pen"></i> Cập Nhật Thông Tin *@
+                  <i class="bi bi-pencil-square"></i> Cập Nhật Thông Tin
                 </a>
-            </div>
-        </div>
-        <table class="table table-bordered table-striped">
-            <thead>
-                <tr>
-                    <th>
-                        Tên Khách Sạn
-                    </th>
-                    <th>
-                        Giá Phòng
-                    </th>
-                    <th>
-                        Số Mét Vuông
-                    </th>
-                    <th>
-                        Số Người Tối Đa
-                    </th>
-                    <th>
-                        Chức năng
-                    </th>
-                </tr>
-            </thead>
-            <tbody>
-                @foreach (var hotel in Model)
-                {
-                    <tr>
-                        <td>
-                            @hotel.Name
-                        </td>
-                        <td>
-                            @hotel.Price
-                        </td>
-                        <td>
-                            @hotel.SquareMeter
-                        </td>
-                        <td>
-                            @hotel.Occupancy
-                        </td>
-                        <td class="w-100 btn-group p-1" role="group">
-                            <a class="btn btn-primary"
-                               asp-controller="Hotel"
-                               asp-action="Update"
-                               asp-route-hotelid="@hotel.Id">
-                                <i class="bi bi-pencil-square"></i> Sửa
-                            </a>
-                            <a class="btn btn-danger"
-                               asp-controller="Hotel"
-                               asp-action="Delete"
-                               asp-route-hotelid="@hotel.Id">
-                                <i class="bi bi-trash"></i> Xóa
-                            </a>
-                        </td>
-                    </tr>
-                }
-            </tbody>
-        </table>
-    </div>
+                <a asp-controller="Hotel"
+                   asp-action="Delete"
+                   asp-route-hotelId="@item.Id"
+                   class="btn btn-danger">
+                  <i class="bi bi-trash3"></i> Xóa Dữ Liệu
+                </a>
+              </div>
+            </td>
+          </tr>
+        }
+      </tbody>
+    </table>
+  </div>
 </div>
